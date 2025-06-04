@@ -22,7 +22,7 @@
     <section>
         <h2>Reference links</h2>
         <ul>
-            <li><strong>...</strong></li>
+            <li><strong>https://dataloop.ai/library/model/cybernative_cyberbase-13b/#primary-tasks</strong></li>
             <li><strong>...</strong></li>
             <li><strong>...</strong></li>
             <li><strong>...</strong></li>
