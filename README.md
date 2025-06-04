@@ -23,7 +23,7 @@
         <h2>Reference links</h2>
         <ul>
             <li><strong>https://dataloop.ai/library/model/cybernative_cyberbase-13b/#primary-tasks</strong></li>
-            <li><strong>...</strong></li>
+            <li><strong>https://dataloop.ai/library/model/koesn_zysec-7b-v1-gguf/#:~:text=ZySec%207B%20V1%20GGUF%20is,CIS%20Controls%20and%20PCI%20DSS.</strong></li>
             <li><strong>...</strong></li>
             <li><strong>...</strong></li>
         </ul>
