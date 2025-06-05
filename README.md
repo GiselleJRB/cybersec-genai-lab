@@ -31,7 +31,7 @@
     <section>
         <h2>Citations</h2>
         <ul>
-            <li><strong>...</strong></li>
+            <li><strong>“CyberBase 13b · Models · Dataloop.” Dataloop.ai, 2023, dataloop.ai/library/model/cybernative_cyberbase-13b/#primary-tasks. Accessed 5 June 2025.</strong></li>
             <li><strong>...</strong></li>
             <li><strong>...</strong></li>
             <li><strong>...</strong></li>
