@@ -7,7 +7,7 @@
     <section>
                 <h2>Project overview</h2>
         <p>
-            REU hands-on workshop to explore experimental models of generative AI models, in cybersecurity.
+            REU hands-on workshop to explore experimental models of generative AI in cybersecurity.
         </p>
     </section>
     <section>
