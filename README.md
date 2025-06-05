@@ -32,9 +32,9 @@
         <h2>Citations</h2>
         <ul>
             <li><strong>“CyberBase 13b · Models · Dataloop.” Dataloop.ai, 2023, dataloop.ai/library/model/cybernative_cyberbase-13b/#primary-tasks. Accessed 5 June 2025.</strong></li>
-            <li><strong>...</strong></li>
-            <li><strong>...</strong></li>
-            <li><strong>...</strong></li>
+            <li><strong>“ZySec 7B v1 GGUF · Models · Dataloop.” Dataloop.ai, 2023, dataloop.ai/library/model/koesn_zysec-7b-v1-gguf/.</strong></li>
+            <li><strong>“Fdtn-Ai/Foundation-Sec-8B · Hugging Face.” Huggingface.co, June 2025, huggingface.co/fdtn-ai/Foundation-Sec-8B. Accessed 5 June 2025.</strong></li>
+            <li><strong>“Canstralian/AI-DrivenExploitGeneration · Hugging Face.” Huggingface.co, 27 Nov. 2024, huggingface.co/Canstralian/AI-DrivenExploitGeneration. Accessed 5 June 2025.</strong></li>
         </ul>
     </section>
 </body>
